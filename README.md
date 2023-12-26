@@ -20,4 +20,4 @@ After starting the application, simply click the on search button ad type image 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-Ayush Trivedi
+Copyright (c) 2023 Ayush Trivedi
