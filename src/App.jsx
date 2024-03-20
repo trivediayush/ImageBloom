@@ -7,7 +7,6 @@ const API_URL = "https://api.unsplash.com/search/photos";
 const IMAGES_PER_PAGE = 24;
 
 function App() {
-  const searchInput = useRef(null);
   const [images, setImages] = useState([]);
   const [page, setPage] = useState(1);
   const [totalPages, setTotalPages] = useState(0);
