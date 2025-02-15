@@ -14,7 +14,7 @@ This project is a high-resolution image generator built with ReactJS and the Uns
 4. Start the application with `npm start`.
 
 ## Usage
-After starting the application, simply click the on search button ad type image name to display new high-resolution images.
+After starting the application, simply click the on search button and type image name to display new high-resolution images.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
